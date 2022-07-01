@@ -6,5 +6,5 @@ Technologies used: Python, Flask, HTML, CSS, JS, Bootstrap, API integration, AWS
 
 Waiting on more copy for additional pages and functionality. Additions include full Login and Registration with full CRUD and access control, MySQL, Bcrypt, SSL certificate, payment API...
 
-http://www.fathershousespokane.com
+www.fathershousespokane.com
 https://github.com/joshuabecker91/fhwebsite

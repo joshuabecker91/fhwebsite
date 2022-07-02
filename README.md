@@ -8,5 +8,4 @@ Waiting on more copy for additional pages and functionality. Additions include f
 
 http://54.241.115.30
 http://fhspokane.com
-http://fathershousespokane.com
 https://github.com/joshuabecker91/fhwebsite

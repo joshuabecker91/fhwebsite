@@ -1,4 +1,6 @@
-See demonstration video fhspokane.mp4 in root directory. Father House Website - Church in Spokane, WA
+See demonstration video fhspokane.mp4 in root directory.
+
+Father House Website - Church in Spokane, WA
 
 Full Stack Application Responsive Website (mobile friendly) for Church - Python/Flask deployed w/AWS EC2. Live production being used by the church. 
 

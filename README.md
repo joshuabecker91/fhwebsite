@@ -1,4 +1,4 @@
-See demonstration video fhspokane.mp4 in root directory.
+See demonstration video fhspokane.mp4 in root directory (or below).
 
 Father House Website - Church in Spokane, WA
 

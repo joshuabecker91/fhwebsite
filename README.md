@@ -11,3 +11,5 @@ Waiting on more copy for additional pages and functionality. Additions include f
 http://54.241.115.30
 http://fhspokane.com
 https://github.com/joshuabecker91/fhwebsite
+
+https://user-images.githubusercontent.com/98496684/178899425-e19fcc5a-1d15-4ecb-bc7e-7e273b7076a1.mp4

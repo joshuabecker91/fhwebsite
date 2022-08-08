@@ -1,4 +1,4 @@
-Software Engineer | Fathers House | Full Stack Application Responsive Website (mobile friendly) using Python/Flask deployed w/AWS EC2
+Fathers House | Full Stack Application Responsive Website (mobile friendly) using Python/Flask deployed w/AWS EC2
 
 Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53
 

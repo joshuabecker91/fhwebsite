@@ -6,7 +6,7 @@ Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS
 
 Waiting on more content for additional pages and functionality. Additions will include full Login and Registration with full CRUD and access control, MySQL, Bcrypt, SSL, payment API, and more.
 
-fhspokane.com
+http://fhspokane.com
 http://54.241.115.30
 https://github.com/joshuabecker91/fhwebsite
 Demonstration video on GitHub

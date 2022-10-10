@@ -8,8 +8,6 @@ Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS
 - Developed back-end with Python and using the Flask framework to ensure seamless delivery of the application. 
 - Implemented API for customer intake, entrusted and responsible for spearheading Stripe payment processing to replace the organization’s primary revenue source platform.
 
-Waiting on more content for additional pages and functionality. Additions will include full Login and Registration with full CRUD and access control, MySQL, Bcrypt, SSL, payment API, and more.
-
 http://fhspokane.com
 http://54.241.115.30
 https://github.com/joshuabecker91/fhwebsite

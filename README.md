@@ -2,9 +2,11 @@ Fathers House | Full Stack Application Responsive Website (mobile friendly) usin
 
 Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53
 
-- Hired by the organization for project, solely responsible for the complete buildout of Fathers House website
-- From start to finish designed, built and implemented a live full stack application responsive website (mobile friendly) using Python/Flask and deployed w/AWS EC2
-- Implemented API integration for customer intake, entrusted and responsible for implementing Stripe payment processing to replace the organization’s previous primary revenue source platform
+- Hired by the organization to spearhead the complete design, buildout and implementation of Fathers House website - a full stack responsive web application deployed with Amazon AWS EC2 and Route 53.
+- Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53.
+- Utilized bootstrap and manual css styling to optimize user experience on multiple platforms (mobile friendly). 
+- Developed back-end with Python and using the Flask framework to ensure seamless delivery of the application. 
+- Implemented API for customer intake, entrusted and responsible for spearheading Stripe payment processing to replace the organization’s primary revenue source platform.
 
 Waiting on more content for additional pages and functionality. Additions will include full Login and Registration with full CRUD and access control, MySQL, Bcrypt, SSL, payment API, and more.
 

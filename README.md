@@ -2,6 +2,8 @@ Fathers House | Full Stack Application Responsive Website (mobile friendly) usin
 
 Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53
 
+New iteration now live: https://github.com/joshuabecker91/fathershouse
+
 - Hired by the organization to spearhead the complete design, buildout and implementation of Fathers House website - a full stack responsive web application deployed with Amazon AWS EC2 and Route 53.
 - Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53.
 - Utilized bootstrap and manual css styling to optimize user experience on multiple platforms (mobile friendly). 
